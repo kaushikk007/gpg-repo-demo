@@ -3,7 +3,7 @@ name: import-gpg
 on:
   push:
     branches: main
-
+permissions: write-all
 jobs:
   sign-commit:
     runs-on: ubuntu-latest
