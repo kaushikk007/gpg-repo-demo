@@ -4,3 +4,4 @@ foo
 foo
 FOO
 FOO
+foo
